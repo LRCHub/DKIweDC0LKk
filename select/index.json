@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "死神",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-02T19:22:31.233442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_死神_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_死神_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "死神 - Shinigami",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_死神_-_Shinigami_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_死神_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_死神_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_死神_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "King of Death 死神",
+      "artist": "Whispersinyahead",
+      "has_synced": true,
+      "path": "select/07_King_of_Death_死神_Whispersinyahead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "Seiko Oomori",
+      "has_synced": false,
+      "path": "select/08_死神_Seiko_Oomori.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "King of Death 死神",
+      "artist": "Whispersinyahead, YM0D",
+      "has_synced": true,
+      "path": "select/09_King_of_Death_死神_Whispersinyahead,_YM0D.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "Oomori, Seiko",
+      "has_synced": false,
+      "path": "select/10_死神_Oomori,_Seiko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "大森靖子",
+      "has_synced": false,
+      "path": "select/11_死神_大森靖子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "死神",
+      "artist": "花粥",
+      "has_synced": true,
+      "path": "select/12_死神_花粥.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shinigami(死神)",
+      "artist": "srwks.",
+      "has_synced": true,
+      "path": "select/13_Shinigami(死神)_srwks..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_死神_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_死神_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_死神_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_死神_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_死神_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "死神",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_死神_米津玄師.txt"
+    }
+  ]
+}
